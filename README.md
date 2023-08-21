@@ -11,7 +11,7 @@ C:\Program Files\EqualizerAPO\VSTPlugins
 In Equalizer APO you make a chain after installing to your mic, the chain will be as follows,
 
 - DEVICE (your mic)
-- PREAMP (for gainstaging I use +12db as my mic volume is low in Windows)
+- PREAMP (for gainstaging, this is just a very basic version of it, I use +12db as my mic volume is low in Windows ie 35 for already reduced background noise but i also am within 4inches of my microphone)
 - ReaEQ (this is where you would EQ your voice, every voice is different so I won't explain what to do. please find a video for this.) Do not cut out the mids here please, as every voice needs this section otherwise you'll be drowned out in the background. 
 - ATK EXPANDER, (this we will have specific settings to get rid of as much or all of the background noise as possible without having our audio clip, ATTACK or the first dial make it around 5ms, Release or the second dial make it around 40-60ms, the third dial is what you play with last but what you do is you start from the lowest it can be aka right most side of the dial, and SLOWLY raise it up while monitoring your mic in say OBS, until the moment all background noise vanishes but if it clips your voice lower it so there is some as itll almost fully vanish in a moment, the fourth and fifth dials are all the way maxed.)
 - ReaComp (compressor the most common settings for one are as follows, attack 3-5ms, release 100-250ms, ratio 4:1, threshhold -22db all the way to -16db, you do not need to touch anything else for this)
