@@ -23,4 +23,4 @@ If you are lazy you can skip the ATK expander and reafir, and use an AI based No
 
 There will be an example preset (without any eq done, and without the atk threshhold being set) that you can download 
 
-[HERE](https://github.com/YunaOneeChan/Sounding-Good-With-APO/blob/main/config.txt)https://github.com/YunaOneeChan/Sounding-Good-With-APO/blob/main/config.txt
+[HERE](https://github.com/YunaOneeChan/Sounding-Good-With-APO/blob/main/config.txt)
