@@ -1,5 +1,7 @@
 # Sounding Good With APO for free
 
+This transfers to any DAW, such as FL Studio, Ableton Live, or even Ardour, you do not need to use what I have listed.
+
 For this we will obviously need [Equalizer APO](https://sourceforge.net/projects/equalizerapo/) we will also need three free plugins. Two of which are from a bundle, [REAPLUGS](https://www.reaper.fm/reaplugs/) for ReaEQ and ReaComp, and you will get an expander I use [ATKEXPANDER](https://www.kvraudio.com/product/atkexpander-by-matthieu-brucher), yes I know it's an older version but in my opinion it's better.
 
 When installing your plugins if you want to use my preset, please put them in the Equalizer APO Plugin Folder. 
