@@ -75,4 +75,4 @@ You can also do these things to make your voice or vocals sound more full or war
 
 * Add roundness with a mid boost around 500 Hz.
 
-– Filter out frequency ranges to clear up sibilance (8 kHz).
+* Filter out frequency ranges to clear up sibilance (8 kHz).
