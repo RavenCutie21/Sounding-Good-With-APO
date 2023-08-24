@@ -25,13 +25,15 @@ There will be an example preset (without any eq done, and without the atk thresh
 
 [HERE](https://github.com/YunaOneeChan/Sounding-Good-With-APO/blob/main/config.txt)
 
-# The EQ Information
+# The EQ Cheat Sheet and Extra Information
 
 When actually doing the EQ process, please refer to the EQ Cheat Sheet below
 
 ![Cheat Sheet](https://github.com/YunaOneeChan/Sounding-Good-With-APO/blob/main/EQ%20Cheat%20Sheet.png)
 
 Cutting out certain frequencies around 5kHz can make words sound crisper, or removing 200Hz can help with muting m sounds such as map or mat so that all other vowels can be heard easier. Boosting 1kHz and 3kHz will add brightness to male vocals without compromising articulation or crispness; boosting 2kHz and 4kHz will help female vocals cut through a mix. To help even out intonation across vowel types, it’s important to listen closely when choosing where to cut/boost either high or low-frequency ranges during the mixing process—for example: boosting 5 kHz for male vocals but cutting at 5 kHz for female vocals. Or vice versa. Females tend to have higher pitched voices, so you want them to cut out any frequencies below 300 Hz to prevent muddy-sounding vocals. 
+
+------------------------------------------------------
 
 Proximity effect, sibilance, nasal tone, brittleness, and harshness are all problems that can occur during recording. If not dealt with properly, they can ruin a vocal track. 
 
