@@ -24,3 +24,50 @@ If you are lazy you can skip the ATK expander and reafir, and use an AI based No
 There will be an example preset (without any eq done, and without the atk threshhold being set) that you can download 
 
 [HERE](https://github.com/YunaOneeChan/Sounding-Good-With-APO/blob/main/config.txt)
+
+When actually doing the EQ process, please refer to the EQ Cheat Sheet below
+
+![Cheat Sheet](https://github.com/YunaOneeChan/Sounding-Good-With-APO/blob/main/EQ%20Cheat%20Sheet.png)
+
+Cutting out certain frequencies around 5kHz can make words sound crisper, or removing 200Hz can help with muting m sounds such as map or mat so that all other vowels can be heard easier. Boosting 1kHz and 3kHz will add brightness to male vocals without compromising articulation or crispness; boosting 2kHz and 4kHz will help female vocals cut through a mix. To help even out intonation across vowel types, it’s important to listen closely when choosing where to cut/boost either high or low-frequency ranges during the mixing process—for example: boosting 5 kHz for male vocals but cutting at 5 kHz for female vocals. Or vice versa. Females tend to have higher pitched voices, so you want them to cut out any frequencies below 300 Hz to prevent muddy-sounding vocals. 
+
+Proximity effect, sibilance, nasal tone, brittleness, and harshness are all problems that can occur during recording. If not dealt with properly, they can ruin a vocal track. 
+
+Here are five ways to fix these problems using EQ: 
+
+– Use a high-pass filter or low shelf to reduce the proximity effect. 
+
+– Reduce Sibilance by cutting frequencies around 10kHz.*
+
+– Reduce nasal tone by boosting frequencies around 200Hz and 3kHz. 
+
+– Reduce brittleness by boosting frequencies between 500Hz and 8kHz. 
+
+– Remove harshness by reducing the level of frequencies in the 5-8kHz range.
+
+*Please note that sibilance can also be treated dynamically with a de-esser.
+
+
+If the vocal is still lacking the sparkle you hoped for, here are 5 tips to help make it stand out.
+
+– To fix vocal muddiness, try using a high-pass filter to remove the low end. 
+
+– To add vocal sheen, use a boost around 4-5kHz. 
+
+– To give vocal presence, use a shelf boost around 2-3kHz. 
+
+– To add vocal crispness, use a boost at 10kHz. 
+
+– Finally, to add air, use a high shelf boost at 12kHz or above.
+
+You can also do these things to make your voice or vocals sound more full or warm
+
+– Cut frequencies that cause vocal fatigue or hurt the ears (1 kHz).
+
+– Boost frequencies that make the vocals warmer (500 Hz).
+
+– Boost frequencies that make the vocals clearer (5 kHz).
+
+– Add roundness with a mid boost around 500 Hz.
+
+– Filter out frequency ranges to clear up sibilance (8 kHz).
