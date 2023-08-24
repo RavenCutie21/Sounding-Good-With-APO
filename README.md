@@ -12,7 +12,7 @@ In Equalizer APO you make a chain after installing to your mic, the chain will b
 
 - DEVICE (your mic)
 - PREAMP (for gainstaging, this is just a very basic version of it, I use +12db as my mic volume is low in Windows ie 35 for already reduced background noise but i also am within 4inches of my microphone)
-- ReaEQ (this is where you would EQ your voice, every voice is different so I won't explain what to do. please find a video for this.) Do not cut out the mids here please, as every voice needs this section otherwise you'll be drowned out in the background. 
+- ReaEQ (this is where you would EQ your voice, please refer to the section at the very bottom of this page.)
 - ATK EXPANDER, (this we will have specific settings to get rid of as much or all of the background noise as possible without having our audio clip, ATTACK or the first dial make it around 5ms, Release or the second dial make it around 40-60ms, the third dial is what you play with last but what you do is you start from the lowest it can be aka right most side of the dial, and SLOWLY raise it up while monitoring your mic in say OBS, until the moment all background noise vanishes but if it clips your voice lower it so there is some as itll almost fully vanish in a moment, the fourth and fifth dials are all the way maxed.)
 - ReaComp (compressor the most common settings for one are as follows, attack 3-5ms, release 100-250ms, ratio 4:1, threshhold -22db all the way to -16db, you do not need to touch anything else for this)
 - PREAMP (this time we use negative db values, start with -12, if you are slightly too quiet slowly raise it back up in 0.50db increments, in OBS I aim for -12db on normal speaking, and having a negative value in this will also remove a ton of background noise, you can technically put the ATK expander after this, but this is just how I do it.)
@@ -25,6 +25,8 @@ There will be an example preset (without any eq done, and without the atk thresh
 
 [HERE](https://github.com/YunaOneeChan/Sounding-Good-With-APO/blob/main/config.txt)
 
+# The EQ Information
+
 When actually doing the EQ process, please refer to the EQ Cheat Sheet below
 
 ![Cheat Sheet](https://github.com/YunaOneeChan/Sounding-Good-With-APO/blob/main/EQ%20Cheat%20Sheet.png)
@@ -32,8 +34,6 @@ When actually doing the EQ process, please refer to the EQ Cheat Sheet below
 Cutting out certain frequencies around 5kHz can make words sound crisper, or removing 200Hz can help with muting m sounds such as map or mat so that all other vowels can be heard easier. Boosting 1kHz and 3kHz will add brightness to male vocals without compromising articulation or crispness; boosting 2kHz and 4kHz will help female vocals cut through a mix. To help even out intonation across vowel types, it’s important to listen closely when choosing where to cut/boost either high or low-frequency ranges during the mixing process—for example: boosting 5 kHz for male vocals but cutting at 5 kHz for female vocals. Or vice versa. Females tend to have higher pitched voices, so you want them to cut out any frequencies below 300 Hz to prevent muddy-sounding vocals. 
 
 Proximity effect, sibilance, nasal tone, brittleness, and harshness are all problems that can occur during recording. If not dealt with properly, they can ruin a vocal track. 
-
-Here are five ways to fix these problems using EQ: 
 
 – Use a high-pass filter or low shelf to reduce the proximity effect. 
 
@@ -47,6 +47,7 @@ Here are five ways to fix these problems using EQ:
 
 *Please note that sibilance can also be treated dynamically with a de-esser.
 
+---------------------------------------------------
 
 If the vocal is still lacking the sparkle you hoped for, here are 5 tips to help make it stand out.
 
@@ -59,6 +60,8 @@ If the vocal is still lacking the sparkle you hoped for, here are 5 tips to help
 – To add vocal crispness, use a boost at 10kHz. 
 
 – Finally, to add air, use a high shelf boost at 12kHz or above.
+
+--------------------------------------------------
 
 You can also do these things to make your voice or vocals sound more full or warm
 
