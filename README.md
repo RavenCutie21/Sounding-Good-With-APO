@@ -87,6 +87,8 @@ This is actually incredibly easy, please visit https://autoeq.app
 
 This allows you to search for your headphones in a really large database and use pre-existing EQ profiles, like Harman, which is the most commonly enjoyed EQ profile, and what I would actually recommend most people to use, you can adjust it after to fix some of the stuff you wouldn't like but that's it. 
 
+When using autoeq.app it should give you a file and tell you where to save it, you just INCLUDE its file
+
 Just make sure your chain for your mic is saved as a seperate file and not config.txt as you will import it in a specific order
 
 HEADPHONES > EQ PRESET > two comments of nothing > MICROPHONE > MIC CONFIG YOU MADE
