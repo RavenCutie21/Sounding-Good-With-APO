@@ -86,3 +86,9 @@ You can also do these things to make your voice or vocals sound more full or war
 This is actually incredibly easy, please visit https://autoeq.app
 
 This allows you to search for your headphones in a really large database and use pre-existing EQ profiles, like Harman, which is the most commonly enjoyed EQ profile, and what I would actually recommend most people to use, you can adjust it after to fix some of the stuff you wouldn't like but that's it. 
+
+Just make sure your chain for your mic is saved as a seperate file and not config.txt as you will import it in a specific order
+
+HEADPHONES > EQ PRESET > two comments of nothing > MICROPHONE > MIC CONFIG YOU MADE
+
+You can remove the device section from my preset if you plan on getting a preset on your headphones.
