@@ -81,7 +81,7 @@ You can also do these things to make your voice or vocals sound more full or war
 
 
 
-# Now to do your Headphones or IEM's
+# Headphones or IEM's
 
 This is actually incredibly easy, please visit https://autoeq.app
 
