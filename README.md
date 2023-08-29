@@ -7,8 +7,9 @@ For this we will obviously need [Equalizer APO](https://sourceforge.net/projects
 Better EQ and compressor than the one in reaplugs, EQ being [TDR Nova](https://www.tokyodawn.net/tdr-nova/), Compressor being [TDR Kotelnikov](https://www.tokyodawn.net/tdr-kotelnikov/)
 
 Compressor settings, copy everything and right click in the plugin itself and press paste preset.
-* <TDRKotelnikovGE thresholdParam="-25.0" peakCrestParam="3.0" softKneeParam="2.0" ratioParam="2.0" attackParam="7.0" releasePeakParam="50" releaseRMSParam="180" makeUpParam="0.0" dryMixParam="off" outGainParam="4.0" keyHPFrequencyParam="210" keyHPSlopeParam="3.0" keyStereoDiffParam="60" keyStereoBalanceParam="Center" fdrVisibleParam="Off" fdrActiveParam="On" fdrTypeParam="Bell A" fdrFrequencyParam="1300" fdrAmountParam="60" yingParam="Off" yangParam="Off" deltaParam="Off" bypassParam="Off" equalLoudParam="Off" qualityParam="Precise" modeParam="Stereo" grDispScaleParam="2" grDispModeParam="Gain Reduction"/>
+* <TDRKotelnikovGE thresholdParam="-25.0" peakCrestParam="3.0" softKneeParam="2.0" ratioParam="2.0" attackParam="7.0" releasePeakParam="50" releaseRMSParam="180" makeUpParam="0.0" dryMixParam="off" outGainParam="4.0" keyHPFrequencyParam="210" keyHPSlopeParam="3.0" keyStereoDiffParam="60" keyStereoBalanceParam="Center" fdrVisibleParam="Off" fdrActiveParam="On" fdrTypeParam="Bell A" fdrFrequencyParam="1300" fdrAmountParam="60" yingParam="Off" yangParam="Off" deltaParam="Off" bypassParam="Off" equalLoudParam="Off" qualityParam="Precise" modeParam="Stereo" grDispScaleParam="2" grDispModeParam="Gain Reduction"
 
+you'll have to add "/>" at the end, so paste it somewhere else
 
 When installing your plugins if you want to use my preset, please put them in the Equalizer APO Plugin Folder. 
 
