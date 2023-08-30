@@ -11,6 +11,8 @@ Compressor settings, copy everything and right click in the plugin itself and pr
 
 you'll have to add "/>" at the end, so paste it somewhere else
 
+you also lower your first pre-amp by 4db, so if boosting by 12db, make it 8db. your final preamp where you lower doesnt get touched.
+
 When installing your plugins if you want to use my preset, please put them in the Equalizer APO Plugin Folder. 
 
 C:\Program Files\EqualizerAPO\VSTPlugins
